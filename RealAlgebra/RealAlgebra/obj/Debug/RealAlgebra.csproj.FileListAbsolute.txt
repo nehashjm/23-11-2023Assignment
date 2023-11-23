@@ -1,0 +1,10 @@
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+D:\mphasis Simplilearn\Day14\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb
